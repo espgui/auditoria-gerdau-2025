@@ -1,0 +1,201 @@
+id_bem,segmento,pais,unidade_sintetica,classe_imobilizado,data_aquisicao,data_entrada_operacao,custo_historico_rs,vida_util_anos,taxa_depreciacao_anual,depreciacao_acumulada_rs,impairment_acumulado_rs,valor_contabil_liquido_rs,status_operacional,centro_custo,projeto_capex,indicador_excecao,tipo_excecao,dados_sinteticos,metodo_amostra
+IMOB-0187073,America do Norte,Canada,UG_America_do_Norte25,Obras em andamento,2015-10-22,,1455368.33,0,0.0,0.0,0.0,1455368.33,Em construcao,CC0031,CAPEX0790,False,,True,PPS sem reposicao
+IMOB-0250916,Brasil,Brasil,UG_Brasil21,Obras em andamento,2020-06-23,,562394.93,0,0.0,0.0,0.0,562394.93,Em construcao,CC0903,CAPEX0291,False,,True,PPS sem reposicao
+IMOB-0246454,America do Norte,Estados Unidos,UG_America_do_Norte03,Maquinas e equipamentos,2012-07-11,2013-10-02,23611.34,16,0.0625,19204.88,0.0,4406.46,Em manutencao,CC0023,,False,,True,PPS sem reposicao
+IMOB-0369015,Brasil,Brasil,UG_Brasil23,Obras em andamento,1999-01-11,,119859.47,0,0.0,0.0,0.0,119859.47,Em construcao,CC0754,CAPEX0014,False,,True,PPS sem reposicao
+IMOB-0293309,Brasil,Brasil,UG_Brasil09,Obras em andamento,2012-05-24,,628865.28,0,0.0,0.0,0.0,628865.28,Em construcao,CC2247,CAPEX0453,False,,True,PPS sem reposicao
+IMOB-0488450,Brasil,Brasil,UG_Brasil28,Maquinas e equipamentos,2024-09-04,2025-12-31,63588.22,16,0.0625,0.0,0.0,63588.22,Ativo,CC2391,,False,,True,PPS sem reposicao
+IMOB-0057450,Brasil,Brasil,UG_Brasil08,Maquinas e equipamentos,2023-05-25,2024-11-20,182030.15,16,0.0625,16508.33,0.0,165521.82,Ativo,CC0925,,False,,True,PPS sem reposicao
+IMOB-0459788,America do Norte,Estados Unidos,UG_America_do_Norte23,Maquinas e equipamentos,2016-07-24,2018-04-29,188223.29,20,0.05,85465.78,0.0,102757.51,Ativo,CC1742,,False,,True,PPS sem reposicao
+IMOB-0320478,America do Norte,Estados Unidos,UG_America_do_Norte21,Edificios,2010-03-08,2012-02-09,64751.51,34,0.029411764705882353,31077.43,0.0,33674.08,Ativo,CC1685,,False,,True,PPS sem reposicao
+IMOB-0410536,Brasil,Brasil,UG_Brasil17,Maquinas e equipamentos,2022-05-16,2023-01-17,120564.71,16,0.0625,28000.35,0.0,92564.36,Em manutencao,CC2454,,False,,True,PPS sem reposicao
+IMOB-0279384,Brasil,Brasil,UG_Brasil26,Edificios,2008-10-12,2009-06-29,172504.84,34,0.029411764705882353,96191.82,0.0,76313.02,Ativo,CC1041,,False,,True,PPS sem reposicao
+IMOB-0187858,Brasil,Brasil,UG_Brasil22,Obras em andamento,2024-12-14,,246984.82,0,0.0,0.0,0.0,246984.82,Em construcao,CC1963,CAPEX0308,False,,True,PPS sem reposicao
+IMOB-0304289,America do Norte,Estados Unidos,UG_America_do_Norte14,Obras em andamento,1997-05-17,,296614.01,0,0.0,0.0,0.0,296614.01,Em construcao,CC0092,CAPEX0188,False,,True,PPS sem reposicao
+IMOB-0326506,America do Sul,Argentina,UG_America_do_Sul04,Maquinas e equipamentos,2025-12-03,2025-12-31,153502.36,17,0.058823529411764705,0.0,0.0,153502.36,Ativo,CC1372,,False,,True,PPS sem reposicao
+IMOB-0107754,Brasil,Brasil,UG_Brasil10,Maquinas e equipamentos,2016-05-06,2017-05-19,1231189.8,18,0.05555555555555555,678413.54,0.0,552776.26,Ativo,CC1073,,False,,True,PPS sem reposicao
+IMOB-0191083,Brasil,Brasil,UG_Brasil04,Maquinas e equipamentos,2020-12-13,2020-12-27,1049560.13,18,0.05555555555555555,356897.51,0.0,692662.62,Ativo,CC2306,,False,,True,PPS sem reposicao
+IMOB-0151766,Brasil,Brasil,UG_Brasil25,Edificios,2003-11-22,2004-11-02,593360.43,34,0.029411764705882353,408033.68,0.0,185326.75,Ativo,CC0356,,False,,True,PPS sem reposicao
+IMOB-0094412,America do Norte,Canada,UG_America_do_Norte24,Maquinas e equipamentos,2018-12-09,2019-08-12,963915.63,16,0.0625,453274.25,0.0,510641.38,Ativo,CC1607,,False,,True,PPS sem reposicao
+IMOB-0030590,America do Norte,Estados Unidos,UG_America_do_Norte04,Maquinas e equipamentos,2018-01-14,2019-09-06,179717.58,16,0.0625,83711.33,0.0,96006.25,Ativo,CC0697,,False,,True,PPS sem reposicao
+IMOB-0324216,America do Norte,Estados Unidos,UG_America_do_Norte27,Maquinas e equipamentos,2019-04-18,2021-01-01,435496.78,18,0.05555555555555555,147718.33,0.0,287778.45,Ativo,CC0660,,False,,True,PPS sem reposicao
+IMOB-0091402,Brasil,Brasil,UG_Brasil14,Maquinas e equipamentos,2018-01-11,2018-07-20,109850.88,19,0.05263157894736842,50842.04,0.0,59008.84,Ativo,CC1477,,False,,True,PPS sem reposicao
+IMOB-0035697,America do Norte,Estados Unidos,UG_America_do_Norte22,Maquinas e equipamentos,2012-01-28,2012-02-20,328880.99,20,0.05,247002.77,0.0,81878.22,Ativo,CC0690,,False,,True,PPS sem reposicao
+IMOB-0468492,America do Sul,Uruguai,UG_America_do_Sul19,Maquinas e equipamentos,2015-06-05,2016-08-01,396867.31,16,0.0625,260496.04,0.0,136371.27,Ativo,CC0232,,False,,True,PPS sem reposicao
+IMOB-0404049,America do Norte,Estados Unidos,UG_America_do_Norte28,Maquinas e equipamentos,2016-11-28,2017-06-27,246724.61,20,0.05,122729.78,0.0,123994.83,Ativo,CC1793,,False,,True,PPS sem reposicao
+IMOB-0260420,America do Norte,Estados Unidos,UG_America_do_Norte20,Maquinas e equipamentos,2019-04-08,2020-08-20,115477.24,19,0.05263157894736842,39774.96,0.0,75702.28,Ativo,CC2465,,False,,True,PPS sem reposicao
+IMOB-0439837,Brasil,Brasil,UG_Brasil24,Obras em andamento,2008-02-19,,2333662.74,0,0.0,0.0,0.0,2333662.74,Em construcao,CC1327,CAPEX0735,False,,True,PPS sem reposicao
+IMOB-0135830,Brasil,Brasil,UG_Brasil13,Obras em andamento,2006-10-14,,480002.57,0,0.0,0.0,0.0,480002.57,Em construcao,CC1552,CAPEX0548,False,,True,PPS sem reposicao
+IMOB-0201446,America do Norte,Estados Unidos,UG_America_do_Norte22,Obras em andamento,2008-11-17,,247865.79,0,0.0,0.0,0.0,247865.79,Em construcao,CC1055,CAPEX0779,False,,True,PPS sem reposicao
+IMOB-0335343,America do Norte,Estados Unidos,UG_America_do_Norte30,Edificios,2023-12-30,2024-10-19,200807.58,37,0.02702702702702703,8600.46,0.0,192207.12,Ativo,CC0159,,False,,True,PPS sem reposicao
+IMOB-0496023,Brasil,Brasil,UG_Brasil08,Maquinas e equipamentos,2012-03-25,2012-05-05,212455.34,20,0.05,157639.74,0.0,54815.6,Ativo,CC2404,,False,,True,PPS sem reposicao
+IMOB-0244845,America do Norte,Mexico,UG_America_do_Norte30,Obras em andamento,2004-06-25,,637435.71,0,0.0,0.0,0.0,637435.71,Em construcao,CC0279,CAPEX0656,False,,True,PPS sem reposicao
+IMOB-0407097,Brasil,Brasil,UG_Brasil29,Obras em andamento,2022-02-20,,1390429.15,0,0.0,0.0,0.0,1390429.15,Em construcao,CC1681,CAPEX0424,False,,True,PPS sem reposicao
+IMOB-0364681,America do Norte,Estados Unidos,UG_America_do_Norte15,Maquinas e equipamentos,2011-12-15,2013-11-26,498977.99,18,0.05555555555555555,365445.89,0.0,133532.1,Ativo,CC1866,,False,,True,PPS sem reposicao
+IMOB-0376302,America do Norte,Estados Unidos,UG_America_do_Norte28,Obras em andamento,2004-07-25,,333078.26,0,0.0,0.0,0.0,333078.26,Em construcao,CC0891,CAPEX0414,False,,True,PPS sem reposicao
+IMOB-0043201,Brasil,Brasil,UG_Brasil27,Terrenos,2019-03-27,2020-07-10,126600.5,0,0.0,0.0,0.0,126600.5,Ativo,CC0626,,False,,True,PPS sem reposicao
+IMOB-0176280,Brasil,Brasil,UG_Brasil02,Obras em andamento,2010-06-24,,598310.82,0,0.0,0.0,0.0,598310.82,Em construcao,CC0989,CAPEX0209,False,,True,PPS sem reposicao
+IMOB-0376881,Brasil,Brasil,UG_Brasil28,Obras em andamento,2014-01-11,,109473.12,0,0.0,0.0,0.0,109473.12,Em construcao,CC0839,CAPEX0205,False,,True,PPS sem reposicao
+IMOB-0107846,America do Norte,Estados Unidos,UG_America_do_Norte01,Obras em andamento,2000-05-30,,334863.44,0,0.0,0.0,0.0,334863.44,Em construcao,CC1888,CAPEX0784,False,,True,PPS sem reposicao
+IMOB-0212755,Brasil,Brasil,UG_Brasil22,Maquinas e equipamentos,2022-10-19,2022-11-01,236618.08,16,0.0625,58630.24,0.0,177987.84,Ativo,CC1601,,False,,True,PPS sem reposicao
+IMOB-0243772,America do Norte,Estados Unidos,UG_America_do_Norte15,Obras em andamento,2024-06-10,,2207304.78,0,0.0,0.0,0.0,2207304.78,Em construcao,CC1378,CAPEX0656,False,,True,PPS sem reposicao
+IMOB-0043255,Brasil,Brasil,UG_Brasil10,Maquinas e equipamentos,2016-04-21,2016-08-23,80283.89,18,0.05555555555555555,47456.65,0.0,32827.24,Ativo,CC1712,,False,,True,PPS sem reposicao
+IMOB-0426746,America do Norte,Estados Unidos,UG_America_do_Norte25,Edificios,2020-12-03,2021-11-30,1051976.96,37,0.02702702702702703,149600.18,0.0,902376.78,Ativo,CC1917,,False,,True,PPS sem reposicao
+IMOB-0117026,Brasil,Brasil,UG_Brasil01,Maquinas e equipamentos,2021-01-14,2022-11-03,974651.42,19,0.05263157894736842,205054.98,0.0,769596.44,Ativo,CC1841,,False,,True,PPS sem reposicao
+IMOB-0087429,America do Sul,Uruguai,UG_America_do_Sul11,Maquinas e equipamentos,2018-05-22,2018-10-04,804219.85,19,0.05263157894736842,362998.78,0.0,441221.07,Ativo,CC2275,,False,,True,PPS sem reposicao
+IMOB-0101792,America do Norte,Estados Unidos,UG_America_do_Norte29,Obras em andamento,1992-01-12,,429469.44,0,0.0,0.0,0.0,429469.44,Em construcao,CC0143,CAPEX0631,False,,True,PPS sem reposicao
+IMOB-0150965,Brasil,Brasil,UG_Brasil18,Obras em andamento,2013-12-11,,119082.77,0,0.0,0.0,0.0,119082.77,Em construcao,CC0179,CAPEX0479,False,,True,PPS sem reposicao
+IMOB-0361056,America do Norte,Estados Unidos,UG_America_do_Norte10,Obras em andamento,2021-12-29,,43399.61,0,0.0,0.0,0.0,43399.61,Em construcao,CC0923,CAPEX0799,False,,True,PPS sem reposicao
+IMOB-0139913,America do Norte,Estados Unidos,UG_America_do_Norte15,Maquinas e equipamentos,2023-03-18,2024-09-02,512715.03,19,0.05263157894736842,46769.1,0.0,465945.93,Ativo,CC0941,,False,,True,PPS sem reposicao
+IMOB-0101217,America do Sul,Argentina,UG_America_do_Sul07,Obras em andamento,1995-02-28,,70364.42,0,0.0,0.0,0.0,70364.42,Em construcao,CC0992,CAPEX0259,False,,True,PPS sem reposicao
+IMOB-0199113,Brasil,Brasil,UG_Brasil17,Maquinas e equipamentos,2014-07-29,2014-10-21,142695.48,17,0.058823529411764705,102794.82,0.0,39900.66,Ativo,CC1958,,False,,True,PPS sem reposicao
+IMOB-0212785,America do Norte,Estados Unidos,UG_America_do_Norte05,Obras em andamento,2024-07-15,,225006.69,0,0.0,0.0,0.0,225006.69,Em construcao,CC0935,CAPEX0791,False,,True,PPS sem reposicao
+IMOB-0158820,America do Norte,Estados Unidos,UG_America_do_Norte08,Maquinas e equipamentos,2019-10-24,2021-05-05,537598.17,16,0.0625,190417.27,0.0,347180.9,Ativo,CC2089,,False,,True,PPS sem reposicao
+IMOB-0157340,America do Norte,Estados Unidos,UG_America_do_Norte14,Edificios,2005-10-16,2007-09-10,321124.51,33,0.030303030303030304,200611.44,0.0,120513.07,Ativo,CC0682,,False,,True,PPS sem reposicao
+IMOB-0233838,America do Norte,Estados Unidos,UG_America_do_Norte21,Veiculos,2024-03-05,2025-08-10,70671.72,10,0.1,3648.2,0.0,67023.52,Ativo,CC0230,,False,,True,PPS sem reposicao
+IMOB-0008526,America do Norte,Estados Unidos,UG_America_do_Norte03,Obras em andamento,1991-08-25,,45550.61,0,0.0,0.0,0.0,45550.61,Em construcao,CC0258,CAPEX0498,False,,True,PPS sem reposicao
+IMOB-0171471,America do Norte,Estados Unidos,UG_America_do_Norte03,Obras em andamento,1992-03-06,,147816.23,0,0.0,0.0,0.0,147816.23,Em construcao,CC0149,CAPEX0721,False,,True,PPS sem reposicao
+IMOB-0437017,America do Norte,Estados Unidos,UG_America_do_Norte24,Terrenos,2004-04-22,2006-03-13,751370.38,0,0.0,0.0,0.0,751370.38,Ativo,CC0263,,False,,True,PPS sem reposicao
+IMOB-0278683,America do Norte,Canada,UG_America_do_Norte14,Edificios,2013-09-04,2015-05-21,42915.47,33,0.030303030303030304,16642.35,0.0,26273.12,Ativo,CC1400,,False,,True,PPS sem reposicao
+IMOB-0404464,America do Norte,Mexico,UG_America_do_Norte30,Obras em andamento,2005-02-12,,116960.91,0,0.0,0.0,0.0,116960.91,Em construcao,CC1071,CAPEX0594,False,,True,PPS sem reposicao
+IMOB-0123667,Brasil,Brasil,UG_Brasil22,Obras em andamento,2015-06-29,,21563.01,0,0.0,0.0,0.0,21563.01,Em construcao,CC0698,CAPEX0156,False,,True,PPS sem reposicao
+IMOB-0405017,Brasil,Brasil,UG_Brasil28,Edificios,2020-10-07,2022-07-18,559842.77,33,0.030303030303030304,75643.69,0.0,484199.08,Ativo,CC0231,,False,,True,PPS sem reposicao
+IMOB-0281939,Brasil,Brasil,UG_Brasil09,Maquinas e equipamentos,2012-07-30,2014-05-04,7245394.43,20,0.05,4718962.31,0.0,2526432.12,Ativo,CC0023,,False,,True,PPS sem reposicao
+IMOB-0241813,America do Norte,Estados Unidos,UG_America_do_Norte17,Maquinas e equipamentos,2010-05-05,2011-11-28,273584.78,17,0.058823529411764705,236973.77,0.0,36611.01,Ativo,CC0813,,False,,True,PPS sem reposicao
+IMOB-0025761,America do Norte,Estados Unidos,UG_America_do_Norte12,Maquinas e equipamentos,2018-01-20,2018-09-03,177858.39,18,0.05555555555555555,85076.84,0.0,92781.55,Ativo,CC1115,,False,,True,PPS sem reposicao
+IMOB-0150060,America do Norte,Estados Unidos,UG_America_do_Norte18,Maquinas e equipamentos,2013-07-02,2013-11-28,58837.68,20,0.05,39495.51,0.0,19342.17,Ativo,CC0550,,False,,True,PPS sem reposicao
+IMOB-0338908,America do Norte,Canada,UG_America_do_Norte01,Obras em andamento,2018-02-01,,1505729.76,0,0.0,0.0,0.0,1505729.76,Em construcao,CC1840,CAPEX0227,False,,True,PPS sem reposicao
+IMOB-0117896,Brasil,Brasil,UG_Brasil28,Obras em andamento,2018-03-24,,196099.04,0,0.0,0.0,0.0,196099.04,Em construcao,CC1399,CAPEX0706,False,,True,PPS sem reposicao
+IMOB-0416611,Brasil,Brasil,UG_Brasil12,Obras em andamento,2004-09-19,,598964.48,0,0.0,0.0,0.0,598964.48,Em construcao,CC1641,CAPEX0128,False,,True,PPS sem reposicao
+IMOB-0458112,America do Norte,Estados Unidos,UG_America_do_Norte30,Obras em andamento,2022-12-17,,714921.76,0,0.0,0.0,0.0,714921.76,Em construcao,CC0552,CAPEX0114,False,,True,PPS sem reposicao
+IMOB-0025713,Brasil,Brasil,UG_Brasil16,Maquinas e equipamentos,2016-08-05,2018-02-16,108533.68,19,0.05263157894736842,52728.14,0.0,55805.54,Ativo,CC0071,,False,,True,PPS sem reposicao
+IMOB-0447386,Brasil,Brasil,UG_Brasil27,Obras em andamento,1996-05-13,,346210.1,0,0.0,0.0,0.0,346210.1,Em construcao,CC2319,CAPEX0364,False,,True,PPS sem reposicao
+IMOB-0091793,America do Norte,Estados Unidos,UG_America_do_Norte19,Obras em andamento,2025-02-16,,257914.41,0,0.0,0.0,0.0,257914.41,Em construcao,CC1260,CAPEX0563,False,,True,PPS sem reposicao
+IMOB-0042969,America do Norte,Mexico,UG_America_do_Norte06,Maquinas e equipamentos,2020-01-20,2020-04-28,197883.07,20,0.05,68487.58,0.0,129395.49,Ativo,CC2045,,False,,True,PPS sem reposicao
+IMOB-0075269,America do Norte,Estados Unidos,UG_America_do_Norte22,Obras em andamento,2017-09-28,,323036.65,0,0.0,0.0,0.0,323036.65,Em construcao,CC0813,CAPEX0218,False,,True,PPS sem reposicao
+IMOB-0439423,America do Norte,Estados Unidos,UG_America_do_Norte21,Terrenos,1999-12-31,2001-11-05,199818.01,0,0.0,0.0,0.0,199818.01,Ativo,CC0629,,False,,True,PPS sem reposicao
+IMOB-0293389,Brasil,Brasil,UG_Brasil27,Maquinas e equipamentos,2025-05-10,2025-12-31,132169.44,19,0.05263157894736842,0.0,0.0,132169.44,Ativo,CC0496,,False,,True,PPS sem reposicao
+IMOB-0042358,America do Norte,Estados Unidos,UG_America_do_Norte02,Obras em andamento,1992-03-13,,361096.79,0,0.0,0.0,0.0,361096.79,Em construcao,CC1516,CAPEX0768,False,,True,PPS sem reposicao
+IMOB-0387947,Brasil,Brasil,UG_Brasil21,Obras em andamento,2007-10-16,,608320.53,0,0.0,0.0,0.0,608320.53,Em construcao,CC1502,CAPEX0269,False,,True,PPS sem reposicao
+IMOB-0029908,America do Sul,Peru,UG_America_do_Sul21,Obras em andamento,2021-03-25,,150706.2,0,0.0,0.0,0.0,150706.2,Em construcao,CC1878,CAPEX0052,False,,True,PPS sem reposicao
+IMOB-0286108,America do Sul,Argentina,UG_America_do_Sul05,Edificios,1996-11-27,1998-04-19,218183.94,36,0.027777777777777776,178218.62,0.0,39965.32,Ativo,CC2138,,False,,True,PPS sem reposicao
+IMOB-0046780,Brasil,Brasil,UG_Brasil30,Maquinas e equipamentos,2025-07-03,2025-07-12,55582.75,20,0.05,1734.56,0.0,53848.19,Ativo,CC0061,,False,,True,PPS sem reposicao
+IMOB-0397257,Brasil,Brasil,UG_Brasil09,Maquinas e equipamentos,2022-08-24,2023-03-23,999595.14,19,0.05263157894736842,185982.98,0.0,813612.16,Ativo,CC0550,,False,,True,PPS sem reposicao
+IMOB-0309885,America do Sul,Uruguai,UG_America_do_Sul11,Maquinas e equipamentos,2020-12-27,2022-12-13,196248.78,18,0.05555555555555555,42029.38,0.0,154219.4,Ativo,CC0747,,False,,True,PPS sem reposicao
+IMOB-0387481,Brasil,Brasil,UG_Brasil17,Obras em andamento,2006-09-13,,184986.61,0,0.0,0.0,0.0,184986.61,Em construcao,CC0358,CAPEX0533,False,,True,PPS sem reposicao
+IMOB-0315366,Brasil,Brasil,UG_Brasil25,Obras em andamento,2019-04-04,,298808.95,0,0.0,0.0,0.0,298808.95,Em construcao,CC0471,CAPEX0116,False,,True,PPS sem reposicao
+IMOB-0464277,America do Norte,Estados Unidos,UG_America_do_Norte04,Obras em andamento,2010-07-01,,98615.37,0,0.0,0.0,0.0,98615.37,Em construcao,CC0551,CAPEX0416,False,,True,PPS sem reposicao
+IMOB-0430560,America do Sul,Peru,UG_America_do_Sul09,Obras em andamento,2000-05-03,,2432149.16,0,0.0,0.0,0.0,2432149.16,Em construcao,CC1861,CAPEX0710,False,,True,PPS sem reposicao
+IMOB-0347148,Brasil,Brasil,UG_Brasil29,Obras em andamento,2004-11-20,,33312.33,0,0.0,0.0,0.0,33312.33,Em construcao,CC2232,CAPEX0383,False,,True,PPS sem reposicao
+IMOB-0336472,America do Norte,Canada,UG_America_do_Norte10,Terrenos,2019-07-31,2021-06-15,699870.01,0,0.0,0.0,0.0,699870.01,Ativo,CC1494,,False,,True,PPS sem reposicao
+IMOB-0360900,America do Norte,Estados Unidos,UG_America_do_Norte18,Terrenos,1993-06-29,1995-01-02,13400.13,0,0.0,0.0,0.0,13400.13,Ativo,CC1984,,False,,True,PPS sem reposicao
+IMOB-0187902,America do Norte,Estados Unidos,UG_America_do_Norte27,Obras em andamento,2011-04-14,,83238.38,0,0.0,0.0,0.0,83238.38,Em construcao,CC0202,CAPEX0671,False,,True,PPS sem reposicao
+IMOB-0177386,Brasil,Brasil,UG_Brasil17,Obras em andamento,1998-10-01,,440113.32,0,0.0,0.0,0.0,440113.32,Em construcao,CC1676,CAPEX0582,False,,True,PPS sem reposicao
+IMOB-0403495,Brasil,Brasil,UG_Brasil05,Veiculos,2020-12-18,2022-05-28,170352.74,6,0.16666666666666666,113503.45,0.0,56849.29,Ativo,CC1817,,False,,True,PPS sem reposicao
+IMOB-0041879,America do Norte,Estados Unidos,UG_America_do_Norte18,Obras em andamento,2001-01-16,,48609.16,0,0.0,0.0,0.0,48609.16,Em construcao,CC1798,CAPEX0363,False,,True,PPS sem reposicao
+IMOB-0345978,Brasil,Brasil,UG_Brasil04,Edificios,2022-05-07,2023-05-10,293308.16,36,0.027777777777777776,28092.08,0.0,265216.08,Ativo,CC2095,,False,,True,PPS sem reposicao
+IMOB-0379500,Brasil,Brasil,UG_Brasil07,Obras em andamento,1997-08-21,,430871.92,0,0.0,0.0,0.0,430871.92,Em construcao,CC0152,CAPEX0614,False,,True,PPS sem reposicao
+IMOB-0292869,Brasil,Brasil,UG_Brasil25,Obras em andamento,2014-12-29,,927270.61,0,0.0,0.0,0.0,927270.61,Em construcao,CC0326,CAPEX0410,False,,True,PPS sem reposicao
+IMOB-0235556,America do Norte,Estados Unidos,UG_America_do_Norte17,Obras em andamento,2010-03-23,,299924.64,0,0.0,0.0,0.0,299924.64,Em construcao,CC0930,CAPEX0747,False,,True,PPS sem reposicao
+IMOB-0310675,America do Norte,Estados Unidos,UG_America_do_Norte03,Obras em andamento,1997-05-14,,2750332.95,0,0.0,0.0,0.0,2750332.95,Em construcao,CC1796,CAPEX0668,False,,True,PPS sem reposicao
+IMOB-0327176,America do Sul,Argentina,UG_America_do_Sul02,Obras em andamento,1992-04-04,,3687262.55,0,0.0,0.0,0.0,3687262.55,Em construcao,CC1982,CAPEX0291,False,,True,PPS sem reposicao
+IMOB-0356944,Brasil,Brasil,UG_Brasil12,Obras em andamento,2022-11-21,,2367854.13,0,0.0,0.0,0.0,2367854.13,Em construcao,CC1257,CAPEX0703,False,,True,PPS sem reposicao
+IMOB-0034872,America do Norte,Estados Unidos,UG_America_do_Norte27,Obras em andamento,2012-01-08,,61195.47,0,0.0,0.0,0.0,61195.47,Em construcao,CC0887,CAPEX0487,False,,True,PPS sem reposicao
+IMOB-0161034,America do Sul,Uruguai,UG_America_do_Sul19,Obras em andamento,1993-08-28,,3207043.33,0,0.0,0.0,0.0,3207043.33,Em construcao,CC0519,CAPEX0613,False,,True,PPS sem reposicao
+IMOB-0172936,Brasil,Brasil,UG_Brasil20,Maquinas e equipamentos,2011-12-18,2012-01-11,100813.83,17,0.058823529411764705,86737.94,0.0,14075.89,Ativo,CC1532,,False,,True,PPS sem reposicao
+IMOB-0025392,America do Norte,Estados Unidos,UG_America_do_Norte02,Obras em andamento,2005-07-17,,23508.65,0,0.0,0.0,0.0,23508.65,Em construcao,CC0483,CAPEX0117,False,,True,PPS sem reposicao
+IMOB-0122113,America do Sul,Argentina,UG_America_do_Sul16,Obras em andamento,2011-02-03,,249825.6,0,0.0,0.0,0.0,249825.6,Em construcao,CC2468,CAPEX0616,False,,True,PPS sem reposicao
+IMOB-0195474,America do Norte,Estados Unidos,UG_America_do_Norte12,Obras em andamento,2024-03-24,,600952.3,0,0.0,0.0,0.0,600952.3,Em construcao,CC0227,CAPEX0513,False,,True,PPS sem reposicao
+IMOB-0041161,America do Norte,Estados Unidos,UG_America_do_Norte14,Maquinas e equipamentos,2020-10-20,2021-05-18,772021.55,18,0.05555555555555555,243768.54,0.0,528253.01,Ativo,CC0100,,False,,True,PPS sem reposicao
+IMOB-0038654,Brasil,Brasil,UG_Brasil27,Maquinas e equipamentos,2024-02-05,2024-02-09,161917.08,16,0.0625,24598.49,0.0,137318.59,Ativo,CC0692,,False,,True,PPS sem reposicao
+IMOB-0430474,America do Norte,Estados Unidos,UG_America_do_Norte27,Maquinas e equipamentos,2013-08-20,2015-07-05,524261.51,16,0.0625,376342.35,0.0,147919.16,Ativo,CC2076,,False,,True,PPS sem reposicao
+IMOB-0204207,America do Norte,Estados Unidos,UG_America_do_Norte06,Obras em andamento,1995-07-06,,113715.56,0,0.0,0.0,0.0,113715.56,Em construcao,CC0604,CAPEX0577,False,,True,PPS sem reposicao
+IMOB-0142576,America do Norte,Estados Unidos,UG_America_do_Norte23,Obras em andamento,1992-10-14,,416298.52,0,0.0,0.0,0.0,416298.52,Em construcao,CC0200,CAPEX0526,False,,True,PPS sem reposicao
+IMOB-0443984,America do Norte,Estados Unidos,UG_America_do_Norte14,Maquinas e equipamentos,2023-03-08,2024-11-01,141943.37,17,0.058823529411764705,12686.89,0.0,129256.48,Ativo,CC1317,,False,,True,PPS sem reposicao
+IMOB-0366118,America do Norte,Estados Unidos,UG_America_do_Norte15,Obras em andamento,2024-01-28,,356117.72,0,0.0,0.0,0.0,356117.72,Em construcao,CC2458,CAPEX0799,False,,True,PPS sem reposicao
+IMOB-0264814,Brasil,Brasil,UG_Brasil03,Maquinas e equipamentos,2025-02-27,2025-09-05,29693.91,18,0.05555555555555555,701.72,0.0,28992.19,Ativo,CC2106,,False,,True,PPS sem reposicao
+IMOB-0444413,America do Norte,Estados Unidos,UG_America_do_Norte08,Obras em andamento,2018-11-11,,2269291.67,0,0.0,0.0,0.0,2269291.67,Em construcao,CC0196,CAPEX0634,False,,True,PPS sem reposicao
+IMOB-0133295,America do Norte,Canada,UG_America_do_Norte28,Obras em andamento,2023-07-16,,1061001.48,0,0.0,0.0,0.0,1061001.48,Em construcao,CC0833,CAPEX0690,False,,True,PPS sem reposicao
+IMOB-0416143,America do Norte,Estados Unidos,UG_America_do_Norte05,Edificios,2013-04-08,2013-11-28,707276.76,34,0.029411764705882353,300132.42,0.0,407144.34,Ativo,CC1426,,False,,True,PPS sem reposicao
+IMOB-0400352,America do Norte,Estados Unidos,UG_America_do_Norte03,Obras em andamento,2000-04-12,,575459.46,0,0.0,0.0,0.0,575459.46,Em construcao,CC0788,CAPEX0273,False,,True,PPS sem reposicao
+IMOB-0472248,Brasil,Brasil,UG_Brasil03,Edificios,2018-03-11,2019-07-01,278545.96,36,0.027777777777777776,63365.25,0.0,215180.71,Ativo,CC2349,,False,,True,PPS sem reposicao
+IMOB-0405971,America do Norte,Estados Unidos,UG_America_do_Norte26,Obras em andamento,2016-12-04,,436736.3,0,0.0,0.0,0.0,436736.3,Em construcao,CC1914,CAPEX0336,False,,True,PPS sem reposicao
+IMOB-0353834,Brasil,Brasil,UG_Brasil11,Obras em andamento,1994-03-06,,3111604.2,0,0.0,0.0,0.0,3111604.2,Em construcao,CC1137,CAPEX0632,False,,True,PPS sem reposicao
+IMOB-0025544,America do Norte,Estados Unidos,UG_America_do_Norte15,Obras em andamento,2006-11-26,,832409.62,0,0.0,0.0,0.0,832409.62,Em construcao,CC0006,CAPEX0149,False,,True,PPS sem reposicao
+IMOB-0479643,America do Norte,Estados Unidos,UG_America_do_Norte15,Maquinas e equipamentos,2019-12-05,2020-08-31,575856.41,17,0.058823529411764705,218332.43,0.0,357523.98,Ativo,CC2292,,False,,True,PPS sem reposicao
+IMOB-0493936,Brasil,Brasil,UG_Brasil22,Obras em andamento,2023-04-10,,30513.77,0,0.0,0.0,0.0,30513.77,Em construcao,CC0460,CAPEX0095,False,,True,PPS sem reposicao
+IMOB-0140802,America do Norte,Estados Unidos,UG_America_do_Norte05,Maquinas e equipamentos,2020-02-08,2021-01-01,51259.65,18,0.05555555555555555,16013.75,16103.0,19142.9,Ativo,CC2244,,False,,True,PPS sem reposicao
+IMOB-0219621,America do Norte,Estados Unidos,UG_America_do_Norte27,Obras em andamento,2008-01-21,,2630377.6,0,0.0,0.0,0.0,2630377.6,Em construcao,CC0565,CAPEX0498,False,,True,PPS sem reposicao
+IMOB-0114091,America do Norte,Estados Unidos,UG_America_do_Norte28,Maquinas e equipamentos,2019-08-20,2019-09-01,87063.51,18,0.05555555555555555,36593.68,0.0,50469.83,Ativo,CC1030,,False,,True,PPS sem reposicao
+IMOB-0075182,America do Norte,Estados Unidos,UG_America_do_Norte21,Obras em andamento,2001-11-12,,284401.64,0,0.0,0.0,0.0,284401.64,Em construcao,CC0783,CAPEX0482,False,,True,PPS sem reposicao
+IMOB-0194606,America do Norte,Estados Unidos,UG_America_do_Norte23,Obras em andamento,2001-09-03,,34617.23,0,0.0,0.0,0.0,34617.23,Em construcao,CC0539,CAPEX0206,False,,True,PPS sem reposicao
+IMOB-0391485,Brasil,Brasil,UG_Brasil26,Edificios,2019-05-02,2019-05-12,62307.93,33,0.030303030303030304,15686.1,0.0,46621.83,Ativo,CC0009,,False,,True,PPS sem reposicao
+IMOB-0314487,Brasil,Brasil,UG_Brasil30,Maquinas e equipamentos,2015-07-13,2017-06-02,800725.78,16,0.0625,486082.2,0.0,314643.58,Ativo,CC0352,,False,,True,PPS sem reposicao
+IMOB-0487246,America do Sul,Uruguai,UG_America_do_Sul09,Obras em andamento,2014-01-29,,856488.48,0,0.0,0.0,0.0,856488.48,Em construcao,CC1073,CAPEX0591,False,,True,PPS sem reposicao
+IMOB-0181396,America do Norte,Estados Unidos,UG_America_do_Norte25,Obras em andamento,2023-04-18,,99285.87,0,0.0,0.0,0.0,99285.87,Em construcao,CC1121,CAPEX0096,False,,True,PPS sem reposicao
+IMOB-0466538,Brasil,Brasil,UG_Brasil20,Obras em andamento,1993-11-21,,161708.66,0,0.0,0.0,0.0,161708.66,Em construcao,CC0798,CAPEX0132,False,,True,PPS sem reposicao
+IMOB-0042470,Brasil,Brasil,UG_Brasil19,Obras em andamento,2015-06-27,,288524.49,0,0.0,0.0,0.0,288524.49,Em construcao,CC0773,CAPEX0073,False,,True,PPS sem reposicao
+IMOB-0468907,America do Norte,Estados Unidos,UG_America_do_Norte10,Obras em andamento,2012-01-05,,1875203.02,0,0.0,0.0,0.0,1875203.02,Em construcao,CC0104,CAPEX0429,False,,True,PPS sem reposicao
+IMOB-0119667,Brasil,Brasil,UG_Brasil04,Obras em andamento,2006-08-28,,860329.39,0,0.0,0.0,0.0,860329.39,Em construcao,CC2420,CAPEX0061,False,,True,PPS sem reposicao
+IMOB-0050354,America do Norte,Canada,UG_America_do_Norte01,Obras em andamento,1999-02-17,,177468.68,0,0.0,0.0,0.0,177468.68,Em construcao,CC1342,CAPEX0335,False,,True,PPS sem reposicao
+IMOB-0098143,America do Norte,Estados Unidos,UG_America_do_Norte28,Edificios,2004-09-06,2005-06-26,195694.45,34,0.029411764705882353,131155.69,0.0,64538.76,Ativo,CC0043,,False,,True,PPS sem reposicao
+IMOB-0388731,Brasil,Brasil,UG_Brasil06,Edificios,2006-05-06,2006-08-07,54220.78,37,0.02702702702702703,32291.67,0.0,21929.11,Ativo,CC0665,,False,,True,PPS sem reposicao
+IMOB-0426401,Brasil,Brasil,UG_Brasil14,Maquinas e equipamentos,2020-10-20,2021-01-30,258399.97,16,0.0625,96158.66,0.0,162241.31,Ativo,CC0903,,False,,True,PPS sem reposicao
+IMOB-0307381,America do Norte,Estados Unidos,UG_America_do_Norte22,Obras em andamento,2003-01-08,,1419000.25,0,0.0,0.0,0.0,1419000.25,Em construcao,CC1598,CAPEX0286,False,,True,PPS sem reposicao
+IMOB-0194102,America do Norte,Canada,UG_America_do_Norte26,Obras em andamento,2005-06-18,,198643.13,0,0.0,0.0,0.0,198643.13,Em construcao,CC1886,CAPEX0568,False,,True,PPS sem reposicao
+IMOB-0495623,America do Norte,Estados Unidos,UG_America_do_Norte11,Edificios,2023-11-13,2025-08-19,13568.49,34,0.029411764705882353,194.88,0.0,13373.61,Ativo,CC1864,,False,,True,PPS sem reposicao
+IMOB-0312941,America do Norte,Canada,UG_America_do_Norte12,Maquinas e equipamentos,2025-08-05,2025-08-20,251894.6,16,0.0625,7600.02,0.0,244294.58,Ativo,CC2097,,False,,True,PPS sem reposicao
+IMOB-0485143,Brasil,Brasil,UG_Brasil06,Obras em andamento,2015-10-14,,269538.45,0,0.0,0.0,0.0,269538.45,Em construcao,CC1198,CAPEX0135,False,,True,PPS sem reposicao
+IMOB-0340489,Brasil,Brasil,UG_Brasil12,Obras em andamento,1994-06-26,,706612.82,0,0.0,0.0,0.0,706612.82,Em construcao,CC1119,CAPEX0215,False,,True,PPS sem reposicao
+IMOB-0376315,Brasil,Brasil,UG_Brasil07,Edificios,2020-01-27,2020-08-30,182020.38,34,0.029411764705882353,36250.56,0.0,145769.82,Ativo,CC0120,,False,,True,PPS sem reposicao
+IMOB-0018336,Brasil,Brasil,UG_Brasil10,Obras em andamento,2005-03-15,,928848.86,0,0.0,0.0,0.0,928848.86,Em construcao,CC0320,CAPEX0575,False,,True,PPS sem reposicao
+IMOB-0084701,America do Norte,Estados Unidos,UG_America_do_Norte11,Obras em andamento,2005-09-26,,326207.05,0,0.0,0.0,0.0,326207.05,Em construcao,CC0830,CAPEX0141,False,,True,PPS sem reposicao
+IMOB-0290459,Brasil,Brasil,UG_Brasil30,Maquinas e equipamentos,2022-04-26,2024-04-18,145076.97,18,0.05555555555555555,17770.61,0.0,127306.36,Ativo,CC0251,,False,,True,PPS sem reposicao
+IMOB-0151645,America do Norte,Estados Unidos,UG_America_do_Norte07,Obras em andamento,2007-05-12,,101329.32,0,0.0,0.0,0.0,101329.32,Em construcao,CC2407,CAPEX0119,False,,True,PPS sem reposicao
+IMOB-0453238,Brasil,Brasil,UG_Brasil24,Obras em andamento,2003-05-27,,150766.45,0,0.0,0.0,0.0,150766.45,Em construcao,CC1929,CAPEX0248,False,,True,PPS sem reposicao
+IMOB-0399935,America do Norte,Estados Unidos,UG_America_do_Norte02,Obras em andamento,2021-08-25,,270187.63,0,0.0,0.0,0.0,270187.63,Em construcao,CC1636,CAPEX0427,False,,True,PPS sem reposicao
+IMOB-0446124,Brasil,Brasil,UG_Brasil12,Veiculos,2022-06-10,2023-08-04,213534.96,7,0.14285714285714285,88006.85,0.0,125528.11,Ativo,CC0782,,False,,True,PPS sem reposicao
+IMOB-0453265,Brasil,Brasil,UG_Brasil04,Obras em andamento,2005-04-23,,417951.86,0,0.0,0.0,0.0,417951.86,Em construcao,CC0963,CAPEX0001,False,,True,PPS sem reposicao
+IMOB-0389064,Brasil,Brasil,UG_Brasil13,Maquinas e equipamentos,2023-06-04,2025-02-16,109304.88,18,0.05555555555555555,6949.71,0.0,102355.17,Ativo,CC0969,,False,,True,PPS sem reposicao
+IMOB-0414191,Brasil,Brasil,UG_Brasil19,Obras em andamento,2011-03-07,,495494.5,0,0.0,0.0,0.0,495494.5,Em construcao,CC2334,CAPEX0493,False,,True,PPS sem reposicao
+IMOB-0379493,Brasil,Brasil,UG_Brasil02,Maquinas e equipamentos,2012-12-21,2014-06-07,497810.63,18,0.05555555555555555,351491.18,0.0,146319.45,Ativo,CC0139,,False,,True,PPS sem reposicao
+IMOB-0287650,Brasil,Brasil,UG_Brasil21,Maquinas e equipamentos,2014-07-11,2015-01-14,97892.76,17,0.058823529411764705,69314.92,0.0,28577.84,Ativo,CC2113,,False,,True,PPS sem reposicao
+IMOB-0021425,Brasil,Brasil,UG_Brasil30,Edificios,2021-03-10,2021-12-10,123923.32,37,0.02702702702702703,17509.04,0.0,106414.28,Ativo,CC1554,,False,,True,PPS sem reposicao
+IMOB-0161691,America do Norte,Estados Unidos,UG_America_do_Norte26,Obras em andamento,2006-01-29,,323362.03,0,0.0,0.0,0.0,323362.03,Em construcao,CC0227,CAPEX0261,False,,True,PPS sem reposicao
+IMOB-0196874,Brasil,Brasil,UG_Brasil19,Obras em andamento,2010-09-03,,145955.58,0,0.0,0.0,0.0,145955.58,Em construcao,CC0135,CAPEX0479,False,,True,PPS sem reposicao
+IMOB-0371429,America do Norte,Mexico,UG_America_do_Norte17,Obras em andamento,2004-09-15,,231900.96,0,0.0,0.0,0.0,231900.96,Em construcao,CC2204,CAPEX0533,False,,True,PPS sem reposicao
+IMOB-0227242,Brasil,Brasil,UG_Brasil24,Edificios,2018-02-27,2018-04-14,280494.35,36,0.027777777777777776,74911.27,0.0,205583.08,Ativo,CC1617,,False,,True,PPS sem reposicao
+IMOB-0112797,Brasil,Brasil,UG_Brasil12,Maquinas e equipamentos,2010-10-27,2011-07-14,365418.53,20,0.05,284081.94,0.0,81336.59,Ativo,CC0986,,False,,True,PPS sem reposicao
+IMOB-0134939,Brasil,Brasil,UG_Brasil29,Obras em andamento,2005-03-08,,250168.82,0,0.0,0.0,0.0,250168.82,Em construcao,CC0727,CAPEX0311,False,,True,PPS sem reposicao
+IMOB-0488123,Brasil,Brasil,UG_Brasil30,Edificios,2008-05-29,2010-03-13,622530.21,34,0.029411764705882353,334334.77,0.0,288195.44,Ativo,CC1159,,False,,True,PPS sem reposicao
+IMOB-0077766,America do Norte,Estados Unidos,UG_America_do_Norte17,Obras em andamento,2015-08-12,,78933.88,0,0.0,0.0,0.0,78933.88,Em construcao,CC0749,CAPEX0016,False,,True,PPS sem reposicao
+IMOB-0228300,Brasil,Brasil,UG_Brasil01,Obras em andamento,2007-08-31,,614099.7,0,0.0,0.0,168838.55,445261.15,Em construcao,CC0021,CAPEX0472,False,,True,PPS sem reposicao
+IMOB-0493266,Brasil,Brasil,UG_Brasil07,Obras em andamento,1996-08-14,,252336.38,0,0.0,0.0,0.0,252336.38,Em construcao,CC0326,CAPEX0456,False,,True,PPS sem reposicao
+IMOB-0224934,America do Norte,Estados Unidos,UG_America_do_Norte13,Obras em andamento,2019-12-29,,232502.24,0,0.0,0.0,0.0,232502.24,Em construcao,CC0435,CAPEX0092,False,,True,PPS sem reposicao
+IMOB-0242319,America do Norte,Estados Unidos,UG_America_do_Norte30,Maquinas e equipamentos,2023-09-30,2024-12-20,640298.6,19,0.05263157894736842,45515.13,0.0,594783.47,Ativo,CC0916,,False,,True,PPS sem reposicao
+IMOB-0023341,America do Norte,Estados Unidos,UG_America_do_Norte15,Obras em andamento,2018-09-17,,88101.33,0,0.0,0.0,0.0,88101.33,Em construcao,CC0392,CAPEX0444,False,,True,PPS sem reposicao
+IMOB-0174802,America do Sul,Argentina,UG_America_do_Sul11,Obras em andamento,2005-05-09,,31396.98,0,0.0,0.0,0.0,31396.98,Em construcao,CC0594,CAPEX0679,False,,True,PPS sem reposicao
+IMOB-0270770,America do Norte,Estados Unidos,UG_America_do_Norte08,Obras em andamento,2002-01-12,,33697.34,0,0.0,0.0,0.0,33697.34,Em construcao,CC2156,CAPEX0578,False,,True,PPS sem reposicao
+IMOB-0285675,Brasil,Brasil,UG_Brasil20,Edificios,2011-12-08,2013-07-12,368400.41,35,0.02857142857142857,156610.51,0.0,211789.9,Ativo,CC0280,,False,,True,PPS sem reposicao
+IMOB-0380287,America do Norte,Canada,UG_America_do_Norte13,Maquinas e equipamentos,2024-01-05,2025-08-01,803953.71,20,0.05,22191.72,0.0,781761.99,Ativo,CC0172,,False,,True,PPS sem reposicao
+IMOB-0066543,Brasil,Brasil,UG_Brasil07,Edificios,2012-04-27,2013-01-01,299546.79,37,0.02702702702702703,125724.92,0.0,173821.87,Ativo,CC2496,,False,,True,PPS sem reposicao
+IMOB-0008264,America do Norte,Estados Unidos,UG_America_do_Norte05,Maquinas e equipamentos,2025-01-08,2025-12-31,433759.1,18,0.05555555555555555,0.0,0.0,433759.1,Ativo,CC0002,,False,,True,PPS sem reposicao
+IMOB-0456536,America do Norte,Canada,UG_America_do_Norte13,Maquinas e equipamentos,2013-12-27,2014-03-12,4230598.44,18,0.05555555555555555,3037522.27,0.0,1193076.17,Ativo,CC0492,,False,,True,PPS sem reposicao
+IMOB-0249119,Brasil,Brasil,UG_Brasil19,Obras em andamento,2013-11-27,,1311494.94,0,0.0,0.0,0.0,1311494.94,Em construcao,CC2040,CAPEX0707,False,,True,PPS sem reposicao
+IMOB-0119357,America do Norte,Estados Unidos,UG_America_do_Norte14,Veiculos,2020-08-28,2021-05-29,126805.26,8,0.125,81507.77,0.0,45297.49,Ativo,CC0281,,False,,True,PPS sem reposicao
+IMOB-0324940,America do Norte,Estados Unidos,UG_America_do_Norte25,Obras em andamento,1996-03-10,,644229.75,0,0.0,0.0,0.0,644229.75,Em construcao,CC0499,CAPEX0360,False,,True,PPS sem reposicao
+IMOB-0100064,Brasil,Brasil,UG_Brasil17,Obras em andamento,2024-06-26,,347893.87,0,0.0,0.0,0.0,347893.87,Em construcao,CC0792,CAPEX0355,False,,True,PPS sem reposicao
+IMOB-0455365,America do Norte,Estados Unidos,UG_America_do_Norte26,Obras em andamento,2017-01-18,,170978.4,0,0.0,0.0,0.0,170978.4,Em construcao,CC2493,CAPEX0380,False,,True,PPS sem reposicao
+IMOB-0086920,Brasil,Brasil,UG_Brasil02,Edificios,1995-05-03,1996-05-09,139431.19,37,0.02702702702702703,117592.92,0.0,21838.27,Ativo,CC0361,,False,,True,PPS sem reposicao
+IMOB-0243431,America do Norte,Canada,UG_America_do_Norte13,Edificios,2000-02-09,2001-07-07,242998.01,36,0.027777777777777776,179723.39,0.0,63274.62,Ativo,CC1849,,False,,True,PPS sem reposicao
+IMOB-0323955,Brasil,Brasil,UG_Brasil23,Obras em andamento,2014-05-10,,205660.35,0,0.0,0.0,0.0,205660.35,Em construcao,CC0243,CAPEX0068,False,,True,PPS sem reposicao
+IMOB-0149163,Brasil,Brasil,UG_Brasil23,Edificios,2025-04-19,2025-12-31,313014.78,33,0.030303030303030304,0.0,0.0,313014.78,Ativo,CC1718,,False,,True,PPS sem reposicao
+IMOB-0053400,America do Norte,Estados Unidos,UG_America_do_Norte06,Maquinas e equipamentos,2016-03-01,2017-03-15,919570.9,20,0.05,470760.04,0.0,448810.86,Ativo,CC0170,,False,,True,PPS sem reposicao
+IMOB-0088291,Brasil,Brasil,UG_Brasil16,Obras em andamento,2007-12-22,,44043.76,0,0.0,0.0,0.0,44043.76,Em construcao,CC0800,CAPEX0601,False,,True,PPS sem reposicao
+IMOB-0154669,Brasil,Brasil,UG_Brasil20,Maquinas e equipamentos,2014-12-21,2016-12-11,1136181.93,20,0.05,596421.69,0.0,539760.24,Ativo,CC1714,,False,,True,PPS sem reposicao
+IMOB-0122995,America do Norte,Canada,UG_America_do_Norte13,Obras em andamento,2020-01-01,,39369.62,0,0.0,0.0,0.0,39369.62,Em construcao,CC1015,CAPEX0183,False,,True,PPS sem reposicao
+IMOB-0151112,Brasil,Brasil,UG_Brasil12,Maquinas e equipamentos,2019-10-11,2021-01-10,898004.82,18,0.05555555555555555,303224.13,0.0,594780.69,Ativo,CC1320,,False,,True,PPS sem reposicao
+IMOB-0238901,Brasil,Brasil,UG_Brasil26,Maquinas e equipamentos,2018-08-17,2020-04-02,246130.78,16,0.0625,105381.99,0.0,140748.79,Ativo,CC1459,,False,,True,PPS sem reposicao
+IMOB-0059082,America do Norte,Estados Unidos,UG_America_do_Norte07,Maquinas e equipamentos,2023-08-18,2024-12-28,525419.9,18,0.05555555555555555,38562.4,0.0,486857.5,Ativo,CC2331,,False,,True,PPS sem reposicao
+IMOB-0101876,America do Norte,Estados Unidos,UG_America_do_Norte10,Obras em andamento,2012-08-09,,537033.45,0,0.0,0.0,0.0,537033.45,Em construcao,CC2384,CAPEX0261,False,,True,PPS sem reposicao
+IMOB-0333347,Brasil,Brasil,UG_Brasil06,Maquinas e equipamentos,2020-04-30,2020-10-24,231904.27,19,0.05263157894736842,77449.27,0.0,154455.0,Ativo,CC2362,,False,,True,PPS sem reposicao
