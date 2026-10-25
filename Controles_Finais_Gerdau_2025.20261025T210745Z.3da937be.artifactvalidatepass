@@ -1,0 +1,24 @@
+{
+  "tool": "artifact-validator",
+  "schemaVersion": "2.0",
+  "validatorVersion": "3.2.4",
+  "result": "valid",
+  "exitCode": 0,
+  "input": {
+    "path": "/mnt/data/ENTREGA_FINAL_GERDAU_2025/04_planilhas/Controles_Finais_Gerdau_2025.xlsx",
+    "sha256": "ccd7a75fcf14feb9088dd0494a080abd9fc9f1a543021714e0b2147c45b74c33",
+    "sizeBytes": 12921,
+    "kind": "xlsx"
+  },
+  "output": null,
+  "backup": null,
+  "repair": null,
+  "packageError": null,
+  "summary": {
+    "errorCount": 0,
+    "warningCount": 0,
+    "repairableCount": 0,
+    "issueCount": 0
+  },
+  "issues": []
+}

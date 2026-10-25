@@ -1,0 +1,92 @@
+[
+  {
+    "arquivo": "01_dossie/Dossie_Final_Auditoria_Gerdau_2025.docx",
+    "bytes": 69768,
+    "sha256": "317c0761ac1ec08604c9153704a5dd490cc5991014398ab60f69a85d7150fb46"
+  },
+  {
+    "arquivo": "01_dossie/Dossie_Final_Auditoria_Gerdau_2025.pdf",
+    "bytes": 1009478,
+    "sha256": "03426d46abea8e3b45787dc63148d5a9fcbebb1e0da1f8316c07ca4d3b0a25ac"
+  },
+  {
+    "arquivo": "02_base_sintetica/amostra_pt530.csv",
+    "bytes": 37057,
+    "sha256": "57d1fe3c1fce9f047ddd9fbd96927468565c54640965c0d645a2993c8a9854c5"
+  },
+  {
+    "arquivo": "02_base_sintetica/base_sintetica_imobilizado_gerdau_2025.csv.gz",
+    "bytes": 15525866,
+    "sha256": "0b683d27b72ac2eb886c727b876f31db934655eddf66ff962636f6d3e868cc8e"
+  },
+  {
+    "arquivo": "02_base_sintetica/registro_excecoes_inseridas.csv",
+    "bytes": 11680,
+    "sha256": "339021bdeb6eed05108701b4a66c8733e916cf90d4ba988abb0cbc0bb81f8e62"
+  },
+  {
+    "arquivo": "03_codigo/finalizar_entrega4.py",
+    "bytes": 9757,
+    "sha256": "9e70c974f175c7cc5f37494f218c454a3568860cfc26faec36d647a4335b9b38"
+  },
+  {
+    "arquivo": "03_codigo/gerar_base_imobilizado.py",
+    "bytes": 4995,
+    "sha256": "99bc2e2707c6fc490634feff8b961b138189ff531d6a3770472f461557fabaaa"
+  },
+  {
+    "arquivo": "03_codigo/requirements.txt",
+    "bytes": 34,
+    "sha256": "5a7d09d0a0eac184b269231915408e801db558d7b7026bbbbb1070da829fe087"
+  },
+  {
+    "arquivo": "04_planilhas/Controles_Finais_Gerdau_2025.20261025T210745Z.3da937be.artifactvalidatepass",
+    "bytes": 574,
+    "sha256": "de849c847d008b88a8f031bbf13b6044ab16cde962846c5f79b4481cf7c90b98"
+  },
+  {
+    "arquivo": "04_planilhas/Controles_Finais_Gerdau_2025.xlsx",
+    "bytes": 12921,
+    "sha256": "ccd7a75fcf14feb9088dd0494a080abd9fc9f1a543021714e0b2147c45b74c33"
+  },
+  {
+    "arquivo": "04_planilhas/Entrega_2_Matrizes_Planejamento_Riscos_Gerdau_2025.xlsx",
+    "bytes": 15797,
+    "sha256": "43e39bf70c3b94c5f92775261229f1af481aa48b57b7fa5b45c6c3532a4d6a6b"
+  },
+  {
+    "arquivo": "04_planilhas/Entrega_3_Matrizes_Evidencia_Analiticos_Gerdau_2025.xlsx",
+    "bytes": 15376,
+    "sha256": "708d65637fe8a5fb26101366182b2280a96c35b8f7da153176b2c1504d9221e1"
+  },
+  {
+    "arquivo": "04_planilhas/Entrega_4_Base_Imobilizado_Amostragem_Gerdau_2025.xlsx",
+    "bytes": 33144,
+    "sha256": "5d996b549f33387976d159d28ba1ecf50096e2d5e4b248660ddeb1b9a9b26218"
+  },
+  {
+    "arquivo": "04_planilhas/Entrega_5_Matrizes_Estimativas_Grupo_Gerdau_2025.xlsx",
+    "bytes": 13638,
+    "sha256": "1d2b5d9295838bb0cfea03bcfaf67f0877dddd13baa4c6024957768515a8c3ff"
+  },
+  {
+    "arquivo": "05_fontes/fontes_consolidadas.csv",
+    "bytes": 1621,
+    "sha256": "f58c8c5834bab14d21a59649740aba72996099eb32f962cdf7655aed505dae3e"
+  },
+  {
+    "arquivo": "06_evidencias_publicas/ITR 4T25 gerdau.pdf",
+    "bytes": 3105937,
+    "sha256": "0ae2405d23b9aa5600369ed08014d0d6b0b9fcd747e2bbf98eef37a56481c313"
+  },
+  {
+    "arquivo": "07_resultados/resultados_testes_base.csv",
+    "bytes": 174,
+    "sha256": "a6da899bff12ecf246871fad51c57cf3c0199c3a08d21ba35c5c33484f1d2d4a"
+  },
+  {
+    "arquivo": "README.md",
+    "bytes": 1627,
+    "sha256": "0728240820ff026dbb7c44718bb1744286fcf26305633c37119099a62eb6c1d8"
+  }
+]
